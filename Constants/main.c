@@ -3,8 +3,9 @@
 
 int main()
 {
-    printf("Hello", num);
-    printf("%d", 70);
+
+    printf("%d", 74);
+
     return 0;
 
 }
